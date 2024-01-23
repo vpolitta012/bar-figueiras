@@ -12,7 +12,7 @@ export class HomeComponent {
   img = "../../assets/img/CAPA-SITE-BAR-FIGUEIRAS.png"
 
   redirectToPdf() {
-    const linkDeVisualizacao = "https://drive.google.com/file/d/1IU80PBJtevT4UWQ3iJE80E1zlDmo9HTy/view?usp=sharing";
+    const linkDeVisualizacao = "https://drive.google.com/file/d/1IU8OPBJtevT4UWQ3iJE8OE1zlDmo9HTy/view?usp=drive_link";
     window.open(linkDeVisualizacao, "_blank");
   }
 }
